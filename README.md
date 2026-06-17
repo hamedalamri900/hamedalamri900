@@ -13,7 +13,7 @@ I bridge the gap between business logic and deep technical implementation. My ac
 
 **Featured Projects:**
 - **Enterprise GRC Asset Management:** A practical implementation of my studies in Database Administration and IT Infrastructure. I designed a robust relational database to manage corporate IT assets and calculate risk scores. I containerized the entire system using Docker and developed Bash scripts to automate routine backups and ensure Disaster Recovery.
-- **H-Tech-Store:** A responsive web application featuring a modern Glassmorphism UI. Built with HTML5, CSS3, and JavaScript. It implements advanced form validation using Regex, custom alerts, and utilizes browser LocalStorage for persistent inventory data management.
+- **H-Tech-Store:** A responsive web application featuring a modern Glassmorphism UI. Built with HTML5, CSS, and JavaScript. It implements advanced form validation using Regex, custom alerts, and utilizes browser LocalStorage for persistent inventory data management.
 
 **Let's Connect:**
 - **LinkedIn:** [hamedalamri900](https://www.linkedin.com/in/hamedalamri900)
