@@ -1,5 +1,5 @@
 ## Hi there 👋
-ط من اسم المشروع:
+
 Hi, I'm Hamed
 Information Systems (IS) Student
 I bridge the gap between business logic and deep technical implementation. My academic journey covers programming, web development, IT infrastructure, and systems analysis. I don't just settle for theoretical knowledge; I am passionate about translating academic concepts into practical, real-world projects that simulate enterprise environments.
