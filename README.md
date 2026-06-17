@@ -8,7 +8,7 @@ I bridge the gap between business logic and deep technical implementation. My ac
 **Technical Skills:**
 - **Database Administration:** Oracle (SQL, PL/SQL), Relational Database Design
 - **Infrastructure & OS:** Docker, Linux, Bash Scripting, IT Infrastructure
-- **Software & Web Development:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Software & Web Development:** HTML5, CSS3, JavaScript, Bootstrap
 - **Systems Analysis & Management:** Systems Analysis & Design, IS Management
 
 **Featured Projects:**
