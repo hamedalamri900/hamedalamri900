@@ -12,4 +12,4 @@ Featured Project:
 Enterprise GRC Asset Management:
 A practical implementation of my studies in Database Administration and IT Infrastructure. I designed a robust relational database to manage corporate IT assets and calculate risk scores. I containerized the entire system using Docker and developed Bash scripts to automate routine backups and ensure Disaster Recovery.
 Let's Connect:
-LinkedIn: [Insert_Link_Here]
+LinkedIn: [www.linkedin.com/in/hamedalamri900]
