@@ -17,3 +17,4 @@ I bridge the gap between business logic and deep technical implementation. My ac
 
 **Let's Connect:**
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hamed-alamri-h)
+- **E-mail:** h.alamrihamed@gmail.com
