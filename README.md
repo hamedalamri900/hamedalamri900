@@ -16,4 +16,4 @@ I bridge the gap between business logic and deep technical implementation. My ac
 - **H-Tech-Store:** A responsive web application featuring a modern Glassmorphism UI. Built with HTML5, CSS, and JavaScript. It implements advanced form validation using Regex, custom alerts, and utilizes browser LocalStorage for persistent inventory data management.
 
 **Let's Connect:**
-- **LinkedIn:** [hamedalamri900](https://www.linkedin.com/in/hamedalamri900)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hamed-alamri-h)
